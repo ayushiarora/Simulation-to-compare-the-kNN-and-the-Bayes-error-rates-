@@ -1,5 +1,4 @@
 # Simulation-to-compare-the-kNN-and-the-Bayes-error-rates-
-
 Generating data according to the bivariate normal distribution camparing error rate of KNN and Bayes theorem using R
 
 
